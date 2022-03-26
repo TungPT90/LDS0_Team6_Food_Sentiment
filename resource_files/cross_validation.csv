@@ -1,0 +1,7 @@
+model_name,score_train_mean,score_test_mean,abs_mean,time_mean
+LogisticRegression,0.798869,0.788445,0.010424,838.4
+MultinomialNB,0.53122,0.519703,0.011517,29
+KNeighborsClassifier,0.669231,0.587828,0.081403,14.5
+DecisionTreeClassifier,0.996243,0.571965,0.424278,251.5
+RandomForestClassifier,0.996243,0.702371,0.293872,609.4
+SVC,0.805596,0.788946,0.01665,93.2
